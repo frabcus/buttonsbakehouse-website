@@ -65,6 +65,14 @@ h6 {
  background: url(../img/banner-large-cakes.jpg) no-repeat center 70%;
     background-size: 100%;
 }
+.intro-special-occasions {
+    background: url(../img/banner-special-occasions.jpg) no-repeat center 30%;
+    background-size: 100%;
+}
+.banner-special-occasions {
+ background: url(../img/banner-special-occasions.jpg) no-repeat center 70%;
+    background-size: 100%;
+}
 
 .intro-message {
     position: relative;
