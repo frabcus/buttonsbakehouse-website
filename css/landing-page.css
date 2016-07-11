@@ -117,7 +117,8 @@ h6 {
 }
 
 .nav.social > li > a {
-    padding-right: 4px;
+    padding-right: 8px;
+    padding-left: 8px;
 }
 
 @media(max-width:1199px) {
@@ -127,6 +128,10 @@ h6 {
    .intro-header {
         padding-top: 135px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
    }
+  .nav.social > li > a {
+      padding-right: 4px;
+      padding-left: 4px;
+  }
 }
 
 @media(max-width:767px) {
