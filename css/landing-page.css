@@ -93,6 +93,10 @@ h6 {
     padding-bottom: 20px;
 }
 
+.fa {
+    color: #777;
+}
+
 @media(max-width:767px) {
     .intro-message {
         padding-bottom: 15%;
