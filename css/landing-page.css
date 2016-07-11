@@ -120,14 +120,24 @@ h6 {
     padding-right: 4px;
 }
 
+@media(max-width:1199px) {
+}
+
+@media(max-width:991px) {
+   .intro-header {
+        padding-top: 135px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+   }
+}
+
 @media(max-width:767px) {
 
     .intro-header {
-        padding-top: 150px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+        padding-top: 100px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
    }
 
     .intro-message {
-        padding-bottom: 15%;
+        padding-bottom: 50px;
+        padding-top: 50px;
     }
 
     .intro-message > h1 {
