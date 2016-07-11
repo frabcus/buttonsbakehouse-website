@@ -29,8 +29,8 @@ h6 {
     min-height: 100px;
 }
 
-#bs-example-navbar-collapse-1 {
-    padding-top: 25px;
+#bs-example-navbar-collapse-1, .navbar-toggle {
+    margin-top: 25px;
 }
 
 .navbar-default {
@@ -116,7 +116,16 @@ h6 {
     color: #777;
 }
 
+.nav.social > li > a {
+    padding-right: 4px;
+}
+
 @media(max-width:767px) {
+
+    .intro-header {
+        padding-top: 150px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+   }
+
     .intro-message {
         padding-bottom: 15%;
     }
