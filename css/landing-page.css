@@ -149,18 +149,16 @@ h6 {
         font-size: 3em;
     }
 
-    ul.intro-social-buttons > li {
-        display: block;
-        margin-bottom: 20px;
-        padding: 0;
-    }
-
-    ul.intro-social-buttons > li:last-child {
-        margin-bottom: 0;
-    }
-
     .intro-divider {
         width: 100%;
+    }
+
+    .nav.social > li > a {
+        padding-right: 4px;
+        padding-left: 12px;
+    }
+    .nav.social > li {
+        display: inline-block;
     }
 }
 
