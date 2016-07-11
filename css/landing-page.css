@@ -57,6 +57,14 @@ h6 {
     background: url(../img/banner-index.jpg) no-repeat center 70%;
     background-size: 100%;
 }
+.intro-large-cakes {
+    background: url(../img/banner-large-cakes.jpg) no-repeat center 30%;
+    background-size: 100%;
+}
+.banner-large-cakes {
+ background: url(../img/banner-large-cakes.jpg) no-repeat center 70%;
+    background-size: 100%;
+}
 
 .intro-message {
     position: relative;
