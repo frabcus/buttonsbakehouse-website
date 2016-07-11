@@ -73,6 +73,14 @@ h6 {
  background: url(../img/banner-special-occasions.jpg) no-repeat center 70%;
     background-size: 100%;
 }
+.intro-how-to-order {
+    background: url(../img/banner-how-to-order.jpg) no-repeat center 30%;
+    background-size: 100%;
+}
+.banner-how-to-order {
+ background: url(../img/banner-how-to-order.jpg) no-repeat center 70%;
+    background-size: 100%;
+}
 
 .intro-message {
     position: relative;
@@ -99,6 +107,9 @@ h6 {
 .illus {
     padding-right: 20px;
     padding-bottom: 20px;
+}
+.how-to-logo {
+    padding-top: 20px;
 }
 
 .fa {
